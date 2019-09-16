@@ -1,0 +1,25 @@
+{
+  "name": "smashing-magazine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stylelint.config.js",
+  "dependencies": {},
+  "devDependencies": {
+    "stylelint": "^10.1.0",
+    "stylelint-config-recommended": "^2.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SantiagoGuerra/smashing-magazine.git"
+  },
+  "keywords": [],
+  "author": "Santiago Guerra & Vashira Musa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SantiagoGuerra/smashing-magazine/issues"
+  },
+  "homepage": "https://github.com/SantiagoGuerra/smashing-magazine#readme"
+}
