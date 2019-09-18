@@ -130,3 +130,28 @@
   font-size: 48px;
   color: #fff;
 }
+
+.div-article {
+  display: flex;
+  background: blue;
+  padding: 55px;
+  height: 600px;
+  width: 100%;
+}
+
+.article {
+  width: 33.3%;
+  margin-right: 10px;
+}
+
+.h2-class {
+  margin-top: 10px;
+  margin-bottom: 25px;
+}
+
+.paragraph {
+  margin-top: 20px;
+}
+
+
+
