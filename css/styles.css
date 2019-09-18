@@ -26,7 +26,11 @@
 
 .bg-black {
   background-color: #000;
-} 
+}
+
+.bg-gray__medium {
+  background-color: #c6c6c6
+}
 
 .nav {
   display: flex;
@@ -65,4 +69,64 @@
   border-radius: 6px;
   color: #fff;
   border: none;
+}
+
+.lastest-articles {
+  display: flex;
+  flex-wrap: wrap;
+  position: relative;
+}
+
+.last-item {
+  background-color: red;
+  width: 50%;
+  height: 100vh;
+}
+
+.last-item > a {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  height: 100%;
+  padding: 42px;
+  text-decoration: none;
+}
+
+.last-title-h2 {
+  position: absolute;  
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 400px;
+  right: calc(50% - 200px);
+  margin-top: 42px;
+}
+
+.title-float {
+  padding: 16px;
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.last-img {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  color: transparent;
+  text-decoration: none;
+  margin-right: 24px;
+}
+
+.last-author-desc {
+  width: 70%;
+  margin-top: 30px;
+  font-size: 20px;
+  color: #fff;
+}
+
+.last-title {
+  width: 100%;
+  margin-top: 28px;
+  font-size: 48px;
+  color: #fff;
 }
