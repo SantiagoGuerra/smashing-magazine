@@ -1,0 +1,25 @@
+*::before,
+*::after,
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* background-colors */
+
+.bg-white {
+  background-color: #fff;
+}
+
+.bg-white__darker {
+  background-color: #a9a9a9;
+}
+
+.bg-gray {
+  background-color: #7e7e7e;
+}
+
+.bg-gray__darker {
+  background-color: #3d3d3d;
+}
