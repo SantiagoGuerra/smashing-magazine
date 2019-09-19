@@ -133,15 +133,39 @@
 
 .div-article {
   display: flex;
-  background: blue;
   padding: 55px;
   height: 600px;
   width: 100%;
+  background-color: #c6c6c6;
 }
 
 .article {
   width: 33.3%;
   margin-right: 10px;
+  padding: 30px;
+}
+
+.flow {
+  color: transparent;
+  margin-top: 190px;
+  height: 110px;
+  margin-left: -85px;
+  width: 150px;
+}
+
+.flow:hover {
+  background: #000;
+}
+
+.flow1 {
+  color: transparent;
+  margin-top: 170px;
+  height: 110px;
+  width: 150px;
+}
+
+.flow1:hover {
+  background: #000;
 }
 
 .h2-class {
