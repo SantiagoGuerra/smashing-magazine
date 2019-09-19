@@ -236,3 +236,50 @@
 .underline {
   text-decoration: underline #7e7e7e;
 }
+
+.div-article2 {
+  display: flex;
+  padding: 55px;
+  height: 600px;
+  width: 100%;
+}
+
+.article1 {
+  width: 33.3%;
+  margin-right: 10px;
+  padding: 30px;
+}
+
+.flow-1 {
+  color: transparent;
+  margin-top: 197px;
+  height: 110px;
+  margin-left: -85px;
+  width: 150px;
+}
+
+.flow-1:hover {
+  background: #000;
+}
+
+.flow-2 {
+  color: transparent;
+  margin-top: 152px;
+  height: 110px;
+  width: 150px;
+}
+
+.flow-2:hover {
+  background: #000;
+}
+
+.flow-3 {
+  color: transparent;
+  margin-top: 107px;
+  height: 110px;
+  width: 150px;
+}
+
+.flow-3:hover {
+  background: #000;
+}
