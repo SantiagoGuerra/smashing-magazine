@@ -177,5 +177,62 @@
   margin-top: 20px;
 }
 
+.aside-colect {
+  background: #dfdfdf;
+  height: 100vh;
+  display: flex;
+  padding: 40px;
+}
 
+.ad-colect {
+  flex: 1 1 35%;
+  height: 50%;
+  background: #a9a9a9;
+  margin-right: 24px;
+  border-radius: 24px;
+  color: transparent;
+}
 
+.colect-info {
+  flex: 1 1 65%;
+  background: #a9a9a9;
+  height: 100%;
+  border-radius: 24px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: column;
+}
+
+.colect-img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: #3d3d3d;
+  color: transparent;
+}
+
+.colect-title {
+  font-size: 42px;
+  color: #fff;
+}
+
+.colect-description {
+  width: 55%;
+  text-align: center;
+  line-height: 1.8;
+  font-size: 20px;
+}
+
+.colect-button {
+  padding: 16px 20px;
+  width: 220px;
+  font-size: 22px;
+  font-weight: 700;
+  border: none;
+  border-radius: 8px;
+}
+
+.underline {
+  text-decoration: underline #7e7e7e;
+}
