@@ -375,3 +375,7 @@
   border-radius: 50%;
   color: transparent;
 }
+
+.bold-span {
+  font-weight: 700;
+}
