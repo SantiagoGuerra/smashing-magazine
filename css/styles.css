@@ -316,3 +316,62 @@
 .with-see-more {
   margin-bottom: 230px;
 }
+
+.smashing-class {
+  background: #a9a9a9;
+  width: 100%;
+  height: 1100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 74px 0;
+}
+
+.date-span-1 {
+  margin: 0 0 32px;
+  font: 17px elena;
+  color: #fff;
+}
+
+.smash-ethics {
+  font: 49px mija;
+  padding: 15px 0;
+}
+
+.smash-ethics > a {
+  color: #fff;
+  font-weight: 700;
+}
+
+.smash-paragraph {
+  color: #fff;
+  font-size: 26px;
+  margin: 24px 24px 25px 24px;
+  width: 737px;
+  height: 123px;
+  text-align: center;
+}
+
+.class-button {
+  width: 360px;
+  height: 55px;
+  border-radius: 6px;
+  background: #fff;
+  font-size: 20px;
+  border: none;
+  color: rgb(0, 0, 255);
+  font-weight: 700;
+}
+
+.class-button:hover {
+  color: rgb(255, 0, 0);
+}
+
+.image {
+  margin-top: 60px;
+  width: 500px;
+  height: 500px;
+  background: #7e7e7e;
+  border-radius: 50%;
+  color: transparent;
+}
