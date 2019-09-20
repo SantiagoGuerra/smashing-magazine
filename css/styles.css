@@ -539,3 +539,48 @@
   margin-top: -20px;
   color: transparent;
 }
+
+.post-container {
+  display: flex;
+  height: 100vh;
+  padding: 38pxM
+}
+
+.post-article {
+  flex: 1;
+  padding: 32px;
+}
+
+.post-article:hover {
+  background: #dfdfdf;
+}
+
+.post-list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  height: 70%;
+  margin-top: 42px;
+  padding-left: 48px;
+}
+
+.post-list__item {
+  margin-bottom: 22px;
+  font-size: 20px;
+  position: relative;
+}
+
+.post-list__item::before {
+  position: absolute;
+  content: " ";
+  width: 6px;
+  height: 6px;
+  background: #3d3d3d;
+  top: 10px;
+  left: -16px;
+  border-radius: 50%;
+}
+
+.post-list__item > a {
+  color: #3d3d3d;
+}
