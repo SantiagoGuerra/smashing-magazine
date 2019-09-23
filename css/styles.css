@@ -584,3 +584,102 @@
 .post-list__item > a {
   color: #3d3d3d;
 }
+
+.aside-article {
+  display: flex;
+}
+
+.aside-div-art {
+  background: #7e7e7e;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 70%;
+ height: 800px;
+}
+
+.smash-new {
+  color: #fff;
+}
+
+.Dh2 {
+  padding-top: 30px;
+}
+
+.Imagine-paragraph {
+  color: #fff;
+  width: 500px;
+  padding-top: 35px;
+  font-size: 20px;
+  text-align: center;
+  margin-bottom: 35px;
+}
+
+.aside-image {
+  color: transparent;
+  background: rgb(190, 184, 184);
+  width: 370px;
+  height: 370px;
+  border-radius: 50%;
+}
+
+.input-button {
+  padding-top: 35px;
+  margin-bottom: 25px;
+}
+
+.useful {
+  width: 311px;
+  font-size: 15px;
+  text-align: center;
+  color: #fff;
+}
+
+.input-text {
+  height: 55px;
+  width: 360px;
+  border: none;
+  font-size: 17px;
+  text-align: center;
+}
+
+.button-sub {
+  height: 55px;
+  font-size: 20px;
+  padding: 10px;
+  border: none;
+  background: #fff;
+}
+
+.button-sub:hover {
+  color: rgb(128, 128, 128);
+}
+
+.see-all {
+  width: 400px;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 55px;
+}
+
+.see-all-a {
+  text-align: center;
+  color: #000;
+  
+}
+
+.see-all-a:hover {
+  color: rgb(255, 0, 0);
+}
+
+.useful-a {
+  color: #fff;
+}
+
+.aside-aside {
+  margin-bottom: 140px;
+}
+
+
+
