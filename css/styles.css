@@ -757,3 +757,27 @@
 .foooter-list-b > li > a {
   color: #fff;
 }
+
+
+.nunito {
+  font-family: 'Nunito', sans-serif;
+}
+
+.serif-pro {
+  font-family: 'Source Serif Pro', serif;
+}
+
+.span1 {
+  font-size: 28px;
+}
+
+.span2 {
+  font-size: 17px;
+  display: inline-block;
+  margin-top: 10px;
+  font-style: italic;
+}
+
+.li > .link:hover {
+  color: #3d3d3d
+}
